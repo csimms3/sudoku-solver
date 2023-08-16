@@ -19,6 +19,9 @@ main {
     height: 500px;
 
     border: 1px solid black;
+    background-color: #DDDDDD;
+
+
     display: grid;
     grid-template: 1fr 1fr 1fr / 1fr 1fr 1fr;
 
@@ -34,4 +37,8 @@ main {
 .cell {
     border: 1px solid black;
 
+    padding-top: 2px;
+    font-size: 44px;
+    text-align: center;
+    
 }
