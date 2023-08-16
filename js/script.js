@@ -1,3 +1,10 @@
+/**
+ * script.js
+ * 
+ * Contains code for displaying and updating the board, calls functions in sudoku.js to handle
+ *  actual sudoku gameplay
+ */
+
 
 
 
